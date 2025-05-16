@@ -35,6 +35,7 @@ body{
   color: var(--text-color);
   background-color: var(--bg-color);
   background: gray;
+  background: url('bg-desktop.webp');
 }
 
 li{
